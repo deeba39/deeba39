@@ -30,7 +30,7 @@ I craft scalable web applications and efficient backend systems. My focus is cle
 ## 🌟 Featured Projects  
 ✨ Here are some things I’ve built (click to view):  
 
-- 📊 **[Animated Expense Tracker](#)** → An interactive and animated expense tracker built with React · TypeScript · TailwindCSS · Framer Motion · ApexCharts
+- 📊 **[Animated Expense Tracker](https://github.com/deeba39/animated-expense-tracker)** → An interactive and animated expense tracker built with React · TypeScript · TailwindCSS · Framer Motion · ApexCharts
 
 
 
