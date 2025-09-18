@@ -25,6 +25,13 @@ I craft scalable web applications and efficient backend systems. My focus is cle
 ⚙️ **Backend:** Node.js · Express · FastAPI · PostgreSQL  
 📊 **Other:** REST APIs · Git · Docker · Data Visualization  
 
+---
+
+## 🌟 Featured Projects  
+✨ Here are some things I’ve built (click to view):  
+
+- 📊 **[Animated Expense Tracker](#)** → An interactive and animated expense tracker built with React · TypeScript · TailwindCSS · Framer Motion · ApexCharts
+
 
 
 ✨ *Always learning. Always building. Always curious.*  
