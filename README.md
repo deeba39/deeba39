@@ -33,6 +33,5 @@ I craft scalable web applications and efficient backend systems. My focus is cle
 - **[Animated Expense Tracker](https://github.com/deeba39/animated-expense-tracker)** → An interactive and animated expense tracker built with React · TypeScript · TailwindCSS · Framer Motion · ApexCharts
 - **[Modern Landing Page](https://github.com/deeba39/modern-landing-page)** → A fully responsive, animated landing page built with React + TypeScript + Vite.
 
-
-
+---
 ✨ *Always learning. Always building. Always curious.*  
