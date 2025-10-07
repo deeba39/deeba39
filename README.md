@@ -23,7 +23,7 @@ I craft scalable web applications and efficient backend systems. My focus is cle
 ## 🚀 Tech Toolbox  
 🖥️ **Frontend:** HTML · CSS  · Javascript · React · Svelte · Nextjs · TypeScript · Tailwind  
 ⚙️ **Backend:** Node.js · Express · FastAPI · PostgreSQL  · MySQL   
-📊 **Other:** REST APIs · Git · Docker · Data Visualization  
+📊 **Other:** REST APIs · Git · Docker · Data Visualization  · APEX · Wordpress · PowerApps   
 
 ---
 
